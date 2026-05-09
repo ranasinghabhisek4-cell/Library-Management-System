@@ -1,0 +1,5 @@
+{
+  "name": "Library Management System",
+  "description": "A full-stack Library Management System with book cataloging, user management, borrowing/returning, search, and analytics.",
+  "requestFramePermissions": []
+}
